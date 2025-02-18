@@ -1,3 +1,3 @@
 # meu-primeiro-repo
 
-fiz uma alteração n repositório remoto.
+fiz uma alteração no repositório remoto.
